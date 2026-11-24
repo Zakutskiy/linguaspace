@@ -1,0 +1,12 @@
+{
+  "html_pages": 41,
+  "unique_titles": 41,
+  "unique_descriptions": 41,
+  "internal_links": 462,
+  "broken_links": [],
+  "exact_matches": {
+    "Точное вхождение в основном тексте": 45,
+    "Точное вхождение в Title": 6,
+    "Точное вхождение в H1": 6
+  }
+}
