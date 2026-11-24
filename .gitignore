@@ -1,0 +1,10 @@
+wp-config.php
+.env
+.env.*
+*.sql
+*.log
+*client_secret*.json
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+.DS_Store
